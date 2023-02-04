@@ -1,0 +1,7 @@
+route_id,service_id,trip_id,trip_headsign,block_id,direction_id,shape_id
+1,0,000001,"A-B-C-D-E",0,0,0
+2,0,000002,"A-G-C-H-J",0,0,0
+3,0,000003,"A-B-C-H-J",0,0,0
+4,0,000004,"F-C-D-E",0,0,0
+5,0,000005,"H-D-I-K",0,0,0
+6,0,000006,"A-G-I-K",0,0,0
